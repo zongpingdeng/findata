@@ -1,0 +1,2 @@
+build generate table from mysql:
+mvn clean compile -Djooq=true

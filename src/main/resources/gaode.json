@@ -1,0 +1,75 @@
+{
+	"status": "1",
+	"info": "OK",
+	"infocode": "10000",
+	"regeocode": {
+		"formatted_address": "四川省成都市温江区天府街道德坤·恬园",
+		"addressComponent": {
+			"country": "中国",
+			"province": "四川省",
+			"city": "成都市",
+			"citycode": "028",
+			"district": "温江区",
+			"adcode": "510115",
+			"township": "天府街道",
+			"towncode": "510115004000",
+			"neighborhood": {
+				"name": "德坤·恬园",
+				"type": "商务住宅;住宅区;住宅小区"
+			},
+			"building": {
+				"name": [],
+				"type": []
+			},
+			"streetNumber": {
+				"street": "府兴路",
+				"number": "34-附49号",
+				"location": "103.797323,30.6863306",
+				"direction": "西南",
+				"distance": "8.50715"
+			},
+			"businessAreas": [
+				[]
+			]
+		},
+		"pois": [
+			{
+				"id": "B001C8MXC5",
+				"name": "德坤·恬园",
+				"type": "商务住宅;住宅区;住宅小区",
+				"tel": [],
+				"direction": "东北",
+				"distance": "64.9627",
+				"location": "103.797696,30.686908",
+				"address": "金府路中段138号",
+				"poiweight": "0.203129",
+				"businessarea": []
+			}
+		],
+		"roads": [
+			{
+				"id": "028H48F0160154693",
+				"name": "金府路中段",
+				"direction": "北",
+				"distance": "77.9648",
+				"location": "103.798,30.6857"
+			}
+		],
+		"roadinters": [],
+		"aois": [
+			{
+				"id": "B001C8MXC5",
+				"name": "德坤·恬园",
+				"adcode": "510115",
+				"location": "103.797696,30.686908",
+				"area": "13253.819082",
+				"type": "120302"
+			}
+		]
+	}
+}
+
+
+
+{"status":"1","info":"OK","infocode":"10000","regeocode":{"formatted_address":"四川省成都市温江区天府街道成都八益国际家居博览城1期","addressComponent":{"country":"中国","province":"四川省","city":"成都市","citycode":"028","district":"温江区","adcode":"510115","township":"天府街道","towncode":"510115004000","neighborhood":{"name":[],"type":[]},"building":{"name":[],"type":[]},"streetNumber":{"street":[],"number":[],"direction":[],"distance":[]},"businessAreas":[[]]},"pois":[{"id":"B0FFF005RU","name":"成都八益国际家居博览城1期","type":"购物服务;家居建材市场;家具城","tel":[],"direction":"西","distance":"89.2036","location":"103.811930,30.662185","address":"科兴路西段199号","poiweight":"0.165608","businessarea":[]}],"roads":[],"roadinters":[],"aois":[]}}
+

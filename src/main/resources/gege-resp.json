@@ -1,0 +1,832 @@
+{
+	"status": 0,
+	"msg": "",
+	"data": [
+		{
+			"terminal_code": "0755050058",
+			"terminal_name": "海伴雅居格格货栈",
+			"terminal_addr": "蛇口海昌街109号",
+			"is_followed": 0,
+			"box": {
+				"small": {
+					"box_type_slug": "small",
+					"box_type_name": "小",
+					"box_count": 19
+				},
+				"middle": {
+					"box_type_slug": "middle",
+					"box_type_name": "中",
+					"box_count": 8
+				},
+				"big": {
+					"box_type_slug": "big",
+					"box_type_name": "大",
+					"box_count": 4
+				},
+				"micro": {
+					"box_type_slug": "micro",
+					"box_type_name": "超小",
+					"box_count": 3
+				}
+			},
+			"geo": {
+				"_id": "5774cf6e0454783f488b4567",
+				"terminal_id": 1007033,
+				"terminal_code": "0755050058",
+				"province": 440000,
+				"pname": "广东省",
+				"city": 440300,
+				"cname": "深圳市",
+				"region": 440305,
+				"rname": "南山区",
+				"geo": [
+					113.9269163453356,
+					22.49206230121286
+				],
+				"updated_at": "2016-06-30 07:51:10.153000+00:00",
+				"created_at": "2016-06-30 07:51:10.153000+00:00"
+			}
+		},
+		{
+			"terminal_code": "0755050059",
+			"terminal_name": "海尚国际格格货栈",
+			"terminal_addr": "南山区公园南路1号",
+			"is_followed": 0,
+			"box": {
+				"small": {
+					"box_type_slug": "small",
+					"box_type_name": "小",
+					"box_count": 10
+				},
+				"middle": {
+					"box_type_slug": "middle",
+					"box_type_name": "中",
+					"box_count": 5
+				},
+				"big": {
+					"box_type_slug": "big",
+					"box_type_name": "大",
+					"box_count": 1
+				},
+				"micro": {
+					"box_type_slug": "micro",
+					"box_type_name": "超小",
+					"box_count": 2
+				}
+			},
+			"geo": {
+				"_id": "578600d7045478b3478b4567",
+				"terminal_id": 1007396,
+				"terminal_code": "0755050059",
+				"province": 440000,
+				"pname": "广东省",
+				"city": 440300,
+				"cname": "深圳市",
+				"region": 440305,
+				"rname": "南山区",
+				"geo": [
+					113.9295814488987,
+					22.49200269213606
+				],
+				"updated_at": "2016-07-13 08:50:31.358000+00:00",
+				"created_at": "2016-07-13 08:50:31.358000+00:00"
+			}
+		},
+		{
+			"terminal_code": "0755050073",
+			"terminal_name": "荔海春城格格货栈",
+			"terminal_addr": "南山区向南路5号",
+			"is_followed": 0,
+			"box": {
+				
+			},
+			"geo": {
+				"_id": "58a14868d45befcc788b4567",
+				"terminal_id": 1008210,
+				"terminal_code": "0755050073",
+				"province": 440000,
+				"pname": "广东省",
+				"city": 440300,
+				"cname": "深圳市",
+				"region": 440305,
+				"rname": "南山区",
+				"geo": [
+					113.9227779497925,
+					22.51144813133063
+				],
+				"updated_at": "2017-02-13 05:47:20.256000+00:00",
+				"created_at": "2017-02-13 05:47:20.256000+00:00"
+			}
+		},
+		{
+			"terminal_code": "0755050012",
+			"terminal_name": "福园小区格格货栈",
+			"terminal_addr": "南山街道向南路23号",
+			"is_followed": 0,
+			"box": {
+				"small": {
+					"box_type_slug": "small",
+					"box_type_name": "小",
+					"box_count": 30
+				},
+				"middle": {
+					"box_type_slug": "middle",
+					"box_type_name": "中",
+					"box_count": 29
+				},
+				"big": {
+					"box_type_slug": "big",
+					"box_type_name": "大",
+					"box_count": 6
+				},
+				"micro": {
+					"box_type_slug": "micro",
+					"box_type_name": "超小",
+					"box_count": 11
+				}
+			},
+			"geo": {
+				"_id": "56ca960104547896668b4567",
+				"terminal_id": 1000453,
+				"terminal_code": "0755050012",
+				"province": 440000,
+				"pname": "广东省",
+				"city": 440300,
+				"cname": "深圳市",
+				"region": 440305,
+				"rname": "南山区",
+				"geo": [
+					113.92429050413644,
+					22.5118204550217
+				],
+				"updated_at": "2016-02-22 05:00:49.802000+00:00",
+				"created_at": "2016-02-22 05:00:49.802000+00:00"
+			}
+		},
+		{
+			"terminal_code": "0755050008",
+			"terminal_name": "海晖大厦格格货栈",
+			"terminal_addr": "南山区南油大道1078号",
+			"is_followed": 0,
+			"box": {
+				"small": {
+					"box_type_slug": "small",
+					"box_type_name": "小",
+					"box_count": 22
+				},
+				"middle": {
+					"box_type_slug": "middle",
+					"box_type_name": "中",
+					"box_count": 22
+				},
+				"big": {
+					"box_type_slug": "big",
+					"box_type_name": "大",
+					"box_count": 6
+				},
+				"micro": {
+					"box_type_slug": "micro",
+					"box_type_name": "超小",
+					"box_count": 12
+				}
+			},
+			"geo": {
+				"_id": "56caa0d4045478206c8b4567",
+				"terminal_id": 1000435,
+				"terminal_code": "0755050008",
+				"province": 440000,
+				"pname": "广东省",
+				"city": 440300,
+				"cname": "深圳市",
+				"region": 440305,
+				"rname": "南山区",
+				"geo": [
+					113.93201143999217,
+					22.51426187745337
+				],
+				"updated_at": "2016-02-22 05:47:00.559000+00:00",
+				"created_at": "2016-02-22 05:47:00.559000+00:00"
+			}
+		},
+		{
+			"terminal_code": "0755030009",
+			"terminal_name": "后海理想雅园格格货栈",
+			"terminal_addr": "南山区后海大道与招商东路交汇处",
+			"is_followed": 0,
+			"box": {
+				"small": {
+					"box_type_slug": "small",
+					"box_type_name": "小",
+					"box_count": 18
+				},
+				"middle": {
+					"box_type_slug": "middle",
+					"box_type_name": "中",
+					"box_count": 11
+				},
+				"big": {
+					"box_type_slug": "big",
+					"box_type_name": "大",
+					"box_count": 3
+				},
+				"micro": {
+					"box_type_slug": "micro",
+					"box_type_name": "超小",
+					"box_count": 7
+				}
+			},
+			"geo": {
+				"_id": "56cab839045478f1758b4567",
+				"terminal_id": 1000307,
+				"terminal_code": "0755030009",
+				"province": 440000,
+				"pname": "广东省",
+				"city": 440300,
+				"cname": "深圳市",
+				"region": 440305,
+				"rname": "南山区",
+				"geo": [
+					113.942679,
+					22.499317
+				],
+				"updated_at": "2016-02-22 07:26:49.006000+00:00",
+				"created_at": "2016-02-22 07:26:49.006000+00:00"
+			}
+		},
+		{
+			"terminal_code": "0755050061",
+			"terminal_name": "信泽南乐雅苑格格货栈",
+			"terminal_addr": "南山区南油华明路4号",
+			"is_followed": 0,
+			"box": {
+				"small": {
+					"box_type_slug": "small",
+					"box_type_name": "小",
+					"box_count": 16
+				},
+				"middle": {
+					"box_type_slug": "middle",
+					"box_type_name": "中",
+					"box_count": 14
+				},
+				"big": {
+					"box_type_slug": "big",
+					"box_type_name": "大",
+					"box_count": 5
+				},
+				"micro": {
+					"box_type_slug": "micro",
+					"box_type_name": "超小",
+					"box_count": 5
+				}
+			},
+			"geo": {
+				"_id": "57d90be304547800538b4567",
+				"terminal_id": 1007995,
+				"terminal_code": "0755050061",
+				"province": 440000,
+				"pname": "广东省",
+				"city": 440300,
+				"cname": "深圳市",
+				"region": 440305,
+				"rname": "南山区",
+				"geo": [
+					113.9351992108908,
+					22.51366700697736
+				],
+				"updated_at": "2016-09-14 08:35:47.425000+00:00",
+				"created_at": "2016-09-14 08:35:47.425000+00:00"
+			}
+		},
+		{
+			"terminal_code": "0755050013",
+			"terminal_name": "南油A区24～29栋格格货栈",
+			"terminal_addr": "南山区建南路",
+			"is_followed": 0,
+			"box": {
+				"small": {
+					"box_type_slug": "small",
+					"box_type_name": "小",
+					"box_count": 11
+				},
+				"middle": {
+					"box_type_slug": "middle",
+					"box_type_name": "中",
+					"box_count": 19
+				},
+				"big": {
+					"box_type_slug": "big",
+					"box_type_name": "大",
+					"box_count": 6
+				},
+				"micro": {
+					"box_type_slug": "micro",
+					"box_type_name": "超小",
+					"box_count": 4
+				}
+			},
+			"geo": {
+				"_id": "56caa2240454784d6c8b4567",
+				"terminal_id": 1001088,
+				"terminal_code": "0755050013",
+				"province": 440000,
+				"pname": "广东省",
+				"city": 440300,
+				"cname": "深圳市",
+				"region": 440305,
+				"rname": "南山区",
+				"geo": [
+					113.934053,
+					22.514901
+				],
+				"updated_at": "2016-02-22 05:52:36.729000+00:00",
+				"created_at": "2016-02-22 05:52:36.729000+00:00"
+			}
+		},
+		{
+			"terminal_code": "0755050018",
+			"terminal_name": "南油B区11栋至29栋格格货栈",
+			"terminal_addr": "南山区南海大道与登良路交汇处",
+			"is_followed": 0,
+			"box": {
+				"small": {
+					"box_type_slug": "small",
+					"box_type_name": "小",
+					"box_count": 1
+				},
+				"middle": {
+					"box_type_slug": "middle",
+					"box_type_name": "中",
+					"box_count": 1
+				}
+			},
+			"geo": {
+				"_id": "56caa42f045478af6c8b4567",
+				"terminal_id": 1001377,
+				"terminal_code": "0755050018",
+				"province": 440000,
+				"pname": "广东省",
+				"city": 440300,
+				"cname": "深圳市",
+				"region": 440305,
+				"rname": "南山区",
+				"geo": [
+					113.93626940810805,
+					22.513715169831286
+				],
+				"updated_at": "2016-02-22 06:01:19.415000+00:00",
+				"created_at": "2016-02-22 06:01:19.415000+00:00"
+			}
+		},
+		{
+			"terminal_code": "0755050071",
+			"terminal_name": "铭筑荔苑格格货栈",
+			"terminal_addr": "南山区东滨路龙船塘街9号",
+			"is_followed": 0,
+			"box": {
+				"small": {
+					"box_type_slug": "small",
+					"box_type_name": "小",
+					"box_count": 22
+				},
+				"middle": {
+					"box_type_slug": "middle",
+					"box_type_name": "中",
+					"box_count": 20
+				},
+				"big": {
+					"box_type_slug": "big",
+					"box_type_name": "大",
+					"box_count": 6
+				},
+				"micro": {
+					"box_type_slug": "micro",
+					"box_type_name": "超小",
+					"box_count": 5
+				}
+			},
+			"geo": {
+				"_id": "57d8fc4e045478b23b8b4567",
+				"terminal_id": 1008200,
+				"terminal_code": "0755050071",
+				"province": 440000,
+				"pname": "广东省",
+				"city": 440300,
+				"cname": "深圳市",
+				"region": 440305,
+				"rname": "南山区",
+				"geo": [
+					113.9162806418973,
+					22.51699364068441
+				],
+				"updated_at": "2016-09-14 07:29:18.253000+00:00",
+				"created_at": "2016-09-14 07:29:18.253000+00:00"
+			}
+		},
+		{
+			"terminal_code": "0755050009",
+			"terminal_name": "百富大厦格格货栈",
+			"terminal_addr": "南山区南海大道与登良路交汇处",
+			"is_followed": 0,
+			"box": {
+				"small": {
+					"box_type_slug": "small",
+					"box_type_name": "小",
+					"box_count": 22
+				},
+				"middle": {
+					"box_type_slug": "middle",
+					"box_type_name": "中",
+					"box_count": 22
+				},
+				"big": {
+					"box_type_slug": "big",
+					"box_type_name": "大",
+					"box_count": 6
+				},
+				"micro": {
+					"box_type_slug": "micro",
+					"box_type_name": "超小",
+					"box_count": 11
+				}
+			},
+			"geo": {
+				"_id": "56caae830454788b708b4568",
+				"terminal_id": 1000441,
+				"terminal_code": "0755050009",
+				"province": 440000,
+				"pname": "广东省",
+				"city": 440300,
+				"cname": "深圳市",
+				"region": 440305,
+				"rname": "南山区",
+				"geo": [
+					113.93175991444943,
+					22.516586403861343
+				],
+				"updated_at": "2016-02-22 06:45:23.764000+00:00",
+				"created_at": "2016-02-22 06:45:23.764000+00:00"
+			}
+		},
+		{
+			"terminal_code": "0755050017",
+			"terminal_name": "南油B区56至65栋格格货栈",
+			"terminal_addr": "南山区南海大道与登良路交汇处",
+			"is_followed": 0,
+			"box": {
+				"small": {
+					"box_type_slug": "small",
+					"box_type_name": "小",
+					"box_count": 1
+				},
+				"middle": {
+					"box_type_slug": "middle",
+					"box_type_name": "中",
+					"box_count": 1
+				}
+			},
+			"geo": {
+				"_id": "56caa35d045478996c8b4568",
+				"terminal_id": 1001369,
+				"terminal_code": "0755050017",
+				"province": 440000,
+				"pname": "广东省",
+				"city": 440300,
+				"cname": "深圳市",
+				"region": 440305,
+				"rname": "南山区",
+				"geo": [
+					113.93560466203087,
+					22.514883702589227
+				],
+				"updated_at": "2016-02-22 05:57:49.049000+00:00",
+				"created_at": "2016-02-22 05:57:49.049000+00:00"
+			}
+		},
+		{
+			"terminal_code": "0755050011",
+			"terminal_name": "梦想家园格格货栈",
+			"terminal_addr": "南山南油大道2536号      ",
+			"is_followed": 0,
+			"box": {
+				"small": {
+					"box_type_slug": "small",
+					"box_type_name": "小",
+					"box_count": 2
+				},
+				"middle": {
+					"box_type_slug": "middle",
+					"box_type_name": "中",
+					"box_count": 2
+				},
+				"big": {
+					"box_type_slug": "big",
+					"box_type_name": "大",
+					"box_count": 3
+				},
+				"micro": {
+					"box_type_slug": "micro",
+					"box_type_name": "超小",
+					"box_count": 1
+				}
+			},
+			"geo": {
+				"_id": "56caaa3c045478fb6f8b4567",
+				"terminal_id": 1000452,
+				"terminal_code": "0755050011",
+				"province": 440000,
+				"pname": "广东省",
+				"city": 440300,
+				"cname": "深圳市",
+				"region": 440305,
+				"rname": "南山区",
+				"geo": [
+					113.9334578249231,
+					22.51733443196212
+				],
+				"updated_at": "2016-09-20 05:40:29.545000+00:00",
+				"created_at": "2016-02-22 06:27:08.121000+00:00"
+			}
+		},
+		{
+			"terminal_code": "0755050002",
+			"terminal_name": "诺德假日花园格格货栈",
+			"terminal_addr": "南山沿湖路与前海路的交汇处西南方",
+			"is_followed": 0,
+			"box": {
+				"middle": {
+					"box_type_slug": "middle",
+					"box_type_name": "中",
+					"box_count": 1
+				},
+				"micro": {
+					"box_type_slug": "micro",
+					"box_type_name": "超小",
+					"box_count": 1
+				}
+			},
+			"geo": {
+				"_id": "56ca8f9c045478a0638b4568",
+				"terminal_id": 1000122,
+				"terminal_code": "0755050002",
+				"province": 440000,
+				"pname": "广东省",
+				"city": 440300,
+				"cname": "深圳市",
+				"region": 440305,
+				"rname": "南山区",
+				"geo": [
+					113.9085117678589,
+					22.515985452894036
+				],
+				"updated_at": "2016-02-22 04:33:32.594000+00:00",
+				"created_at": "2016-02-22 04:33:32.594000+00:00"
+			}
+		},
+		{
+			"terminal_code": "0755050057",
+			"terminal_name": "丰泽园格格货栈",
+			"terminal_addr": "前海路荔湾路37号",
+			"is_followed": 0,
+			"box": {
+				"small": {
+					"box_type_slug": "small",
+					"box_type_name": "小",
+					"box_count": 22
+				},
+				"middle": {
+					"box_type_slug": "middle",
+					"box_type_name": "中",
+					"box_count": 21
+				},
+				"big": {
+					"box_type_slug": "big",
+					"box_type_name": "大",
+					"box_count": 6
+				},
+				"micro": {
+					"box_type_slug": "micro",
+					"box_type_name": "超小",
+					"box_count": 12
+				}
+			},
+			"geo": {
+				"_id": "5762081c0454782a2a8b4567",
+				"terminal_id": 1006350,
+				"terminal_code": "0755050057",
+				"province": 440000,
+				"pname": "广东省",
+				"city": 440300,
+				"cname": "深圳市",
+				"region": 440305,
+				"rname": "南山区",
+				"geo": [
+					113.9044025239519,
+					22.51234056025903
+				],
+				"updated_at": "2016-08-18 05:32:29.674000+00:00",
+				"created_at": "2016-06-16 01:59:56.034000+00:00"
+			}
+		},
+		{
+			"terminal_code": "0755050064",
+			"terminal_name": "君汇新天西门格格货栈",
+			"terminal_addr": "南山区中心路深圳湾段2269号 ",
+			"is_followed": 0,
+			"box": {
+				"small": {
+					"box_type_slug": "small",
+					"box_type_name": "小",
+					"box_count": 23
+				},
+				"middle": {
+					"box_type_slug": "middle",
+					"box_type_name": "中",
+					"box_count": 19
+				},
+				"micro": {
+					"box_type_slug": "micro",
+					"box_type_name": "超小",
+					"box_count": 2
+				}
+			},
+			"geo": {
+				"_id": "57d3bf92045478ca3d8b4567",
+				"terminal_id": 1008133,
+				"terminal_code": "0755050064",
+				"province": 440000,
+				"pname": "广东省",
+				"city": 440300,
+				"cname": "深圳市",
+				"region": 440305,
+				"rname": "南山区",
+				"geo": [
+					113.9446702754901,
+					22.50927094543714
+				],
+				"updated_at": "2016-09-10 08:08:50.918000+00:00",
+				"created_at": "2016-09-10 08:08:50.918000+00:00"
+			}
+		},
+		{
+			"terminal_code": "0755050019",
+			"terminal_name": "南油B区37至47栋格格货栈",
+			"terminal_addr": "南山区南海大道与登良路交汇处",
+			"is_followed": 0,
+			"box": {
+				"small": {
+					"box_type_slug": "small",
+					"box_type_name": "小",
+					"box_count": 1
+				},
+				"middle": {
+					"box_type_slug": "middle",
+					"box_type_name": "中",
+					"box_count": 2
+				}
+			},
+			"geo": {
+				"_id": "56caa67a045478e96d8b4567",
+				"terminal_id": 1001378,
+				"terminal_code": "0755050019",
+				"province": 440000,
+				"pname": "广东省",
+				"city": 440300,
+				"cname": "深圳市",
+				"region": 440305,
+				"rname": "南山区",
+				"geo": [
+					113.936843,
+					22.517937
+				],
+				"updated_at": "2016-02-22 06:11:06.662000+00:00",
+				"created_at": "2016-02-22 06:11:06.662000+00:00"
+			}
+		},
+		{
+			"terminal_code": "0755050055",
+			"terminal_name": "后海花园6栋格格货栈",
+			"terminal_addr": "龙城路39号",
+			"is_followed": 0,
+			"box": {
+				"small": {
+					"box_type_slug": "small",
+					"box_type_name": "小",
+					"box_count": 14
+				},
+				"middle": {
+					"box_type_slug": "middle",
+					"box_type_name": "中",
+					"box_count": 19
+				},
+				"big": {
+					"box_type_slug": "big",
+					"box_type_name": "大",
+					"box_count": 5
+				},
+				"micro": {
+					"box_type_slug": "micro",
+					"box_type_name": "超小",
+					"box_count": 7
+				}
+			},
+			"geo": {
+				"_id": "575bc4b804547891768b4567",
+				"terminal_id": 1006159,
+				"terminal_code": "0755050055",
+				"province": 440000,
+				"pname": "广东省",
+				"city": 440300,
+				"cname": "深圳市",
+				"region": 440305,
+				"rname": "南山区",
+				"geo": [
+					113.9375389065488,
+					22.51800450873091
+				],
+				"updated_at": "2016-06-11 07:58:48.311000+00:00",
+				"created_at": "2016-06-11 07:58:48.311000+00:00"
+			}
+		},
+		{
+			"terminal_code": "0755050065",
+			"terminal_name": "君汇新天东南门格格货栈",
+			"terminal_addr": "南山区中心路深圳湾段2269号 ",
+			"is_followed": 0,
+			"box": {
+				"middle": {
+					"box_type_slug": "middle",
+					"box_type_name": "中",
+					"box_count": 1
+				},
+				"micro": {
+					"box_type_slug": "micro",
+					"box_type_name": "超小",
+					"box_count": 2
+				}
+			},
+			"geo": {
+				"_id": "57d27b1f04547801238b4569",
+				"terminal_id": 1008134,
+				"terminal_code": "0755050065",
+				"province": 440000,
+				"pname": "广东省",
+				"city": 440300,
+				"cname": "深圳市",
+				"region": 440305,
+				"rname": "南山区",
+				"geo": [
+					113.9468092661568,
+					22.508795310111
+				],
+				"updated_at": "2016-09-09 09:04:31.329000+00:00",
+				"created_at": "2016-09-09 09:04:31.329000+00:00"
+			}
+		},
+		{
+			"terminal_code": "0755050020",
+			"terminal_name": "康乐园小区格格货栈",
+			"terminal_addr": "南山区南油南光路66号",
+			"is_followed": 0,
+			"box": {
+				"small": {
+					"box_type_slug": "small",
+					"box_type_name": "小",
+					"box_count": 20
+				},
+				"middle": {
+					"box_type_slug": "middle",
+					"box_type_name": "中",
+					"box_count": 22
+				},
+				"big": {
+					"box_type_slug": "big",
+					"box_type_name": "大",
+					"box_count": 5
+				},
+				"micro": {
+					"box_type_slug": "micro",
+					"box_type_name": "超小",
+					"box_count": 11
+				}
+			},
+			"geo": {
+				"_id": "56cac20b045478c6798b4567",
+				"terminal_id": 1001380,
+				"terminal_code": "0755050020",
+				"province": 440000,
+				"pname": "广东省",
+				"city": 440300,
+				"cname": "深圳市",
+				"region": 440305,
+				"rname": "南山区",
+				"geo": [
+					113.93298160994262,
+					22.52282946031061
+				],
+				"updated_at": "2016-02-22 08:08:43.706000+00:00",
+				"created_at": "2016-02-22 08:08:43.706000+00:00"
+			}
+		}
+	]
+}
